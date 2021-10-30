@@ -32,12 +32,12 @@
 [course]: 
 [twitter]: 
 [youtube]: 
-[instagram]: 
-[linkedin]: 
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[instagram]: DSDS
+[linkedin]: DSDS
+[webdevplaylist]: DSDS
+[jsplaylist]: DSDS
+[cssplaylist]: DSDS
+[reactplaylist]: SD
 
 <p align="center">
   <a>
