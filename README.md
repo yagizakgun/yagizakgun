@@ -28,13 +28,6 @@
 <br />
 <br />
 
-
-
----
-  <img align="left" alt="Kronax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yagizakgun&show_icons=true&hide_border=true" />
-  <img align="left" alt="Kronax's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizakgun&layout=compact&&langs_count=5" />
-
-
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
