@@ -1,12 +1,10 @@
 
-# It's me, 
-- 🎂 | Age • Not old (Minor)
+## Hi there, I'm Kronax, 
+- 🎂 | Age • 17
 - 🏳️ | Country • Turkey
-- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP
+- 💻 | Skills • Python, Lua, Javascript, C#, 
 - 🎮 | Games • LoL, Minecraft, tbh just check my steam
-- 📧 | Discord • Sardonyx#7800 (295222772546928641)
-- ⛪ | Interests • SynBio, Computer Science
-- 🥽 | Favorite Subjects • Biology, Math and Chemistry
+- 📧 | Discord • Kronax#1195 
 
 ### About Me
 - Mari Chat shipper 🐱‍👤
