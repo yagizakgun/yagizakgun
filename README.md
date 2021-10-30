@@ -1,13 +1,35 @@
-### Hi there, I'm Kronax 👋
 
----
-## I'm a Student and Developer!!
+# It's me, 
+- 🎂 | Age • Not old (Minor)
+- 🏳️ | Country • Turkey
+- 💻 | Skills • Full Stack Web Development, TypeScript, Lua (Around GLua API), Java, PHP
+- 🎮 | Games • LoL, Minecraft, tbh just check my steam
+- 📧 | Discord • Sardonyx#7800 (295222772546928641)
+- ⛪ | Interests • SynBio, Computer Science
+- 🥽 | Favorite Subjects • Biology, Math and Chemistry
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+### About Me
+- Mari Chat shipper 🐱‍👤
+- SU and MLB fan 💎🐞
+- INFP-T • 5w4 ⭐
+- Libra ♎
+<hr>
+
+<p align="center">
+  <a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sardonyx78&show_icons=true&theme=slateorange&include_all_commits=true&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sardonyx78&layout=compact&langs_count=8&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
+  </a>
+</p>
+
+### Please say no to any kind of discrimination, if you wont't then please check these sources and see if they'll change your mind
+
+  - <a href="https://www.theguardian.com/world/2021/jan/12/uighur-xinjiang-re-education-camp-china-gulbahar-haitiwaji">Islamaphobia & Racism in action against Uyghurs</a>
+  - <a href="https://en.wikipedia.org/wiki/Discrimination_based_on_skin_color#Worldwide">Examples of racism around the world</a>
+  - <a href="https://www.americanprogress.org/issues/lgbtq-rights/news/2017/05/02/429529/widespread-discrimination-continues-shape-lgbt-peoples-lives-subtle-significant-ways/">Queer discrimination</a>
+  - <a href="https://www.ohchr.org/en/issues/discrimination/pages/discrimination_women.aspx">Misogny and discrimination of women</a>
+  
+
 
 ### Languages and Tools:
 
@@ -33,18 +55,3 @@
 
 
 
----
-  <img align="left" alt="Kronax's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yagizakgun&show_icons=true&hide_border=true" />
-  <img align="left" alt="Kronax's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizakgun&layout=compact" />
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
