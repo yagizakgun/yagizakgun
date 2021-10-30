@@ -33,7 +33,7 @@
 [cssplaylist]: DSDS
 [reactplaylist]: SD
 
-<p align="center">
+<p>
   <a>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yagizakgun&show_icons=true&theme=slateorange&include_all_commits=true&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yagizakgun&layout=compact&langs_count=8&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
