@@ -1,10 +1,5 @@
 
 ## Hi there, I'm Kronax, 
-- 🎂 | Age • 17
-- 🏳️ | Country • Turkey
-- 💻 | Skills • Python, Lua, Javascript, C#, 
-- 🎮 | Games • LoL, Minecraft, tbh just check my steam
-- 📧 | Discord • Kronax#1195 
 
 ### Languages and Tools:
 
